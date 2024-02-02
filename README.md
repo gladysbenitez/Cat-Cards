@@ -3,6 +3,28 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This project is a React application that displays a deck of cards with cat images and descriptions. It fetches data dynamically from a JSON endpoint and renders a responsive grid of cards. 
 
+## Getting Prepared
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+- [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))
+
+### Installation
+
+1. Clone the repository:
+```sh
+git clone https://github.com/gladysbenitez/Cat-Cards.git
+```
+Navigate to the project directory and install NPM packages
+
+```bash
+cd cat-cards
+npm install
+```
+
 ## Getting Started
 
 First, run the development server:
